@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "598466060540",
+    "firebase_url": "https://ict602project-d1d15-default-rtdb.firebaseio.com",
+    "project_id": "ict602project-d1d15",
+    "storage_bucket": "ict602project-d1d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598466060540:android:47bb92f3f146c4641af779",
+        "android_client_info": {
+          "package_name": "com.example.ict602project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBUDeDOJCvBlgHpYP1kEp4AZwr_cUdd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
